@@ -10,17 +10,5 @@ public class MadLibs {
         String madLib2 = "Once upon a time in <adjective> land, a <noun> <adverb> grew.";
         String madLib3 = "I saw <proper noun> <verb> all over the land, and eating the <noun> growing on the land.";
 
-        // Enter noun
-        System.out.println("Enter a Noun: ");
-        String nounOne = sc.nextline();
-
-        // Enter a plural noun
-        System.out.println("Enter a plural noun: ");
-        String pluralNoun = sc.nextline();
-
-        // Enter a number
-        System.out.println("Enter a number: ");
-        String number = sc.nextline();
-
     }
 }
